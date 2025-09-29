@@ -1,0 +1,28 @@
+Read Me File:
+####################################################
+Overview:
+---------------------------------------------------
+This project aims to analyse the Air Quality Health Index (AQHI) in Hong Kong and I will use the Python.
+code in Jupyter Notebook for analysing. In this project, I used two Libraries (Numpy, Pandas)
+I will handle the missing value of the data and do the data cleaning. Then, I will use the processed data to
+analysis. In addition, this project I will mainly analyse my home district (Kwun Tong) .
+
+Dataset:
+---------------------------------------------------
+a) Basic analysis:
+   - The dataset (on 17-12-2019) is used to study the daily mean, variance, minimum and maximum AQHI
+     of my home district (Kwun Tong) on my birthday (December 17th) in 2019.
+   - The dataset (December in 2019) is used to list the day(s) with the worst AQHI of my home district
+     (Kwun Tong) on my birthday month (December)in 2019.
+b) Exploratory analysis:
+   - The dataset (December from 2016 to 2020) is used to study the trend of maximum AQHI December
+     from 2016–2020 of Kwun Tong.
+   - The dataset (from January to December in 2020) is used to study the seasonal effects on AQHI of
+     Kwun Tong in 2020.
+   - The dataset (November in 2020) is used to study the mean on AQHI of Kowloon in November 2020.
+
+
+#####################################################
+Name: Chung Yan Chan
+University: Swansea University
+Contract:chungyan02@gmail.com
